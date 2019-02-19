@@ -1,4 +1,4 @@
-# pytorch-scholarship-challenge-final-project
+# Pytorch-Scholarship-Challenge-Final-Project
 Pytorch Scholarship Challenge 2018/2019
 
 # Developing an AI application
