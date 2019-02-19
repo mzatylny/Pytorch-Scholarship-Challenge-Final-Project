@@ -7,7 +7,7 @@ In this project, you'll train an image classifier to recognize different species
 
 **The dataset**
 
-You can download the images from [here] (https://s3.amazonaws.com/content.udacity-data.com/courses/nd188/flower_data.zip)
+You can download the images from [here](https://s3.amazonaws.com/content.udacity-data.com/courses/nd188/flower_data.zip)
 
 
 **The project is broken down into multiple steps:**
