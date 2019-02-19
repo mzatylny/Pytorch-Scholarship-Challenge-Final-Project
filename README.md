@@ -7,24 +7,22 @@ In this project, you'll train an image classifier to recognize different species
 
 **The dataset**
 
-You can download the images from here:
-
-https://s3.amazonaws.com/content.udacity-data.com/courses/nd188/flower_data.zip
+You can download the images from [here] (https://s3.amazonaws.com/content.udacity-data.com/courses/nd188/flower_data.zip)
 
 
 **The project is broken down into multiple steps:**
 
-Load and preprocess the image dataset
+- Load and preprocess the image dataset
 
-Train the image classifier on your dataset
+- Train the image classifier on your dataset
 
-Use the trained classifier to predict image content
+- Use the trained classifier to predict image content
 
 
 **This is only an example solution my final version is lost**
 
-I trained the model on GTX 1060
+- I trained the model on GTX 1060
 
-I used pretrained network densenet161 
+- I used pretrained network densenet161 
 
-The model accuracy is 94.6%
+- The model accuracy is 94.6%
